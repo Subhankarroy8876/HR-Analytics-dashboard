@@ -1,0 +1,3 @@
+# HR-Analytics-dashboard
+
+Link- https://app.powerbi.com/view?r=eyJrIjoiYWNjZDA3ZjgtYzNmYS00OGUwLWI1YjctYzNiZDkxN2VmMTAwIiwidCI6ImM4M2MyNjZlLWYwYzUtNGE0Ni04NDAyLTZmOGEwOWE4ZWFlMyJ9
